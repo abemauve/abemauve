@@ -1,6 +1,4 @@
-### Hi, I'm @abemauve
-🌱 Working on and 🔭 learning new things like crazy.
-
+### Hi, I'm @abemauve!
 <!--
 **abemauve/abemauve** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
